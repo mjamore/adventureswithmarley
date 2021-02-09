@@ -5,7 +5,11 @@
 
 ## To-Do:
 - Implement noindex, nofollow
+- rename repo
 - Add a manifest file - https://www.gatsbyjs.com/docs/tutorial/part-eight/
+- Logo ideas:
+  - baby -> toddler -> child -> teenager
+  - wall height marks
 
 ### Set up of the needed content model and create a configuration file
 
